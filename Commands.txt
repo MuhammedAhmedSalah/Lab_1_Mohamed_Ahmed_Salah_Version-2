@@ -1,0 +1,12 @@
+git init / intilization of git
+git status /checks status of current working tree
+git add . /adds all files
+git commit -m "First Commit (Hello VC Added) /commits first commit
+git commit -m "Second Commit (Name Only)" // commits second commit
+git add . //adds all files
+git commit --amend -m "Second Commit Ammended (Eng Added)" //ammneded second commit
+git add CV.txt // added cv.txt file
+git commit -m "Third Commit (Skill Added)" // commited third commit 
+git remote add origin https://github.com/MuhammedAhmedSalah/Lab_1_Mohamed_Ahmed_Salah_Version-2.git //linked the local repo to the github repo
+git reset HEAD~1 // removed last commit while keeping files unedited
+git push / pushed last changes
